@@ -1,0 +1,11 @@
+Instructions to Run in Google Colab
+1. Click file 
+2. Upload Notebook
+3. Select notebook in the file adjacent to to project (flight_optimizer.ipynb)
+4. Compress flight_optimizer project folder 
+5. Click on files (Left Sidebar)
+5. Upload flight_optimizer.zip file to the the file section
+7. Click on Runtime
+9. Click on Change Runtime Type 
+10. Select T4 GPU and Save
+11. Ready to run all or run by scenario

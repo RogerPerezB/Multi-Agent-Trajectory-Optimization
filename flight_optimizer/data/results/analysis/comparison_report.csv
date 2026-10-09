@@ -1,0 +1,4 @@
+Solver,Collisions (Agent),Min Separation [m],Avg Path Length [m],Detour Ratio,Smoothness Cost
+CPU,0,6.9844,228.55,1.008,6.19
+GPU,0,7.3635,246.28,1.166,25.7
+HYBRID,0,5.886,242.82,1.096,0.28
